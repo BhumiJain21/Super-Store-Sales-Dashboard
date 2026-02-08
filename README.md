@@ -59,7 +59,8 @@ This project was created to:
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshots here)*
+<img width="800" height="448" alt="image" src="https://github.com/user-attachments/assets/9f3a438b-f852-43a3-8c61-5a30f5c15bf3" />
+<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/0fb61383-ad0c-44e8-9e96-ca24a0d1e2ce" />
 
 ---
 
